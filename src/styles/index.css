@@ -1,4 +1,4 @@
-@import url(../utilities/root.css);
+@import url(/formulir-simple.id/utilities/root.css);
 .navbar{
 	z-index: 100;
 	box-shadow: 0 0 10px var(--bc-hover-dark);

@@ -1,4 +1,4 @@
-@import url(../utilities/root.css);
+@import url(/formulir-simple.id/utilities/root.css);
 @media only screen and (min-width: 768px){
 	.wrapper{
 		width: 60%;
