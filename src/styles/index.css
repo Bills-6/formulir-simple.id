@@ -204,7 +204,7 @@ button[id="sign-btn"]:hover{
 	height: 100dvh;
 	clip-path: polygon(100% 0, 0 0, 0 100%, 0% 100%, 0 53%, 0% 0%);
 	z-index: -1;
-	background: rgba(0, 0, 0, 0.6);
+	background: var(--bc-dark-primary);
 }
 .bg-animated.dark:not(.light){
 	animation: background-dark 1s forwards;
